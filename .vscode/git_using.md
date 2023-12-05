@@ -18,5 +18,5 @@ _in processe of work_
 
 git *log* - logging (commit and changes repositories local and remote repositories)<br>
 git *status* - show commit and uncommit editing
-git checkout - 
+git checkout - load saved commited changes in this branch
 
