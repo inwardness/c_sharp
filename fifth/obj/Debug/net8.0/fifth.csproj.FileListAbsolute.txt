@@ -1,0 +1,15 @@
+Y:\c#laptop\c_sharp\fifth\bin\Debug\net8.0\fifth.exe
+Y:\c#laptop\c_sharp\fifth\bin\Debug\net8.0\fifth.deps.json
+Y:\c#laptop\c_sharp\fifth\bin\Debug\net8.0\fifth.runtimeconfig.json
+Y:\c#laptop\c_sharp\fifth\bin\Debug\net8.0\fifth.dll
+Y:\c#laptop\c_sharp\fifth\bin\Debug\net8.0\fifth.pdb
+Y:\c#laptop\c_sharp\fifth\obj\Debug\net8.0\fifth.GeneratedMSBuildEditorConfig.editorconfig
+Y:\c#laptop\c_sharp\fifth\obj\Debug\net8.0\fifth.AssemblyInfoInputs.cache
+Y:\c#laptop\c_sharp\fifth\obj\Debug\net8.0\fifth.AssemblyInfo.cs
+Y:\c#laptop\c_sharp\fifth\obj\Debug\net8.0\fifth.csproj.CoreCompileInputs.cache
+Y:\c#laptop\c_sharp\fifth\obj\Debug\net8.0\fifth.sourcelink.json
+Y:\c#laptop\c_sharp\fifth\obj\Debug\net8.0\fifth.dll
+Y:\c#laptop\c_sharp\fifth\obj\Debug\net8.0\refint\fifth.dll
+Y:\c#laptop\c_sharp\fifth\obj\Debug\net8.0\fifth.pdb
+Y:\c#laptop\c_sharp\fifth\obj\Debug\net8.0\fifth.genruntimeconfig.cache
+Y:\c#laptop\c_sharp\fifth\obj\Debug\net8.0\ref\fifth.dll
