@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Y:\\c#laptop\\first\\first.csproj": {}
+    "Y:\\c#laptop\\c_sharp\\first\\first.csproj": {}
   },
   "projects": {
-    "Y:\\c#laptop\\first\\first.csproj": {
+    "Y:\\c#laptop\\c_sharp\\first\\first.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Y:\\c#laptop\\first\\first.csproj",
+        "projectUniqueName": "Y:\\c#laptop\\c_sharp\\first\\first.csproj",
         "projectName": "first",
-        "projectPath": "Y:\\c#laptop\\first\\first.csproj",
+        "projectPath": "Y:\\c#laptop\\c_sharp\\first\\first.csproj",
         "packagesPath": "C:\\Users\\polynom\\.nuget\\packages\\",
-        "outputPath": "Y:\\c#laptop\\first\\obj\\",
+        "outputPath": "Y:\\c#laptop\\c_sharp\\first\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\polynom\\AppData\\Roaming\\NuGet\\NuGet.Config"

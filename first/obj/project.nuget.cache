@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OeqPoHBWlXIf/xBeY4QVZGNHzz8xfvUF/oQjCXYoUL2sGL8xu9p9T+bB9U1O1ZA5MGKv8Rl2PV4HMrgvf17nEw==",
+  "dgSpecHash": "rM3Rl6x2U8ia2cqXDBqlLPThZ08gvgCxs0rvCLhRnUmzg+XpQykjN010IHz1BKkCul4jgEq1W1Sg5EzPwXu0Nw==",
   "success": true,
-  "projectFilePath": "Y:\\c#laptop\\first\\first.csproj",
+  "projectFilePath": "Y:\\c#laptop\\c_sharp\\first\\first.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
