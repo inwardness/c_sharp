@@ -21,4 +21,4 @@ System.Console.WriteLine(quotient);
 
 d1 = 6;
 double quotient2 = i1/d1;
-System.Console.WriteLine(quotient2);
+System.Console.WriteLine(quotient2  );
