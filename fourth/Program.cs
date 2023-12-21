@@ -14,10 +14,14 @@ if (c > max)
     max = c;
 }
 if (d > max)
-{
+{й
     max = d;
 }
 if (e > max)
 {
     max = e;
 }
+
+System.Console.WriteLine(max);                      
+
+C

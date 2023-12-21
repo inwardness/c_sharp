@@ -1,0 +1,8 @@
+*.json
+*.pros
+*.targets
+*.cache
+*.csproj
+*.dll
+*.g.cs
+*.txt
