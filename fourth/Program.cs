@@ -14,7 +14,7 @@ if (c > max)
     max = c;
 }
 if (d > max)
-{й
+{
     max = d;
 }
 if (e > max)
@@ -24,4 +24,3 @@ if (e > max)
 
 System.Console.WriteLine(max);                      
 
-C
