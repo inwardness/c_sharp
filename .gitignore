@@ -9,4 +9,5 @@
 *.csproj.nuget.g.targets
 *.AssemblyInfo.cs
 *.assets.cache
-fifth/obj/Debug/net8.0/fifth.GeneratedMSBuildEditorConfig.editorconfig
+*.GeneratedMSBuildEditorConfig.editorconfig
+apphost.exe
