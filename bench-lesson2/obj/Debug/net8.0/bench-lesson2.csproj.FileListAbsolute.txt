@@ -1,0 +1,5 @@
+Y:\c#laptop\c_sharp\bench-lesson2\obj\Debug\net8.0\bench-lesson2.GeneratedMSBuildEditorConfig.editorconfig
+Y:\c#laptop\c_sharp\bench-lesson2\obj\Debug\net8.0\bench-lesson2.AssemblyInfoInputs.cache
+Y:\c#laptop\c_sharp\bench-lesson2\obj\Debug\net8.0\bench-lesson2.AssemblyInfo.cs
+Y:\c#laptop\c_sharp\bench-lesson2\obj\Debug\net8.0\bench-lesson2.csproj.CoreCompileInputs.cache
+Y:\c#laptop\c_sharp\bench-lesson2\obj\Debug\net8.0\bench-lesson2.sourcelink.json
