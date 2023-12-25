@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q1nFXx7ABzN4DANrL0fLBuJ5aY1XzD56Inr5fT6g3MiA5ErxTAsWZEkDkU6Sr71cynTyC+mH/Q2mh89s4lPR3A==",
+  "dgSpecHash": "I4vspMjhANkSIXzMZfMEl7b4/9deT97LOXBIknE1poTqJGlqxhJWgpi8aJmy/jGtSMpyfnrvg/3Q1jDeRKRzQA==",
   "success": true,
-  "projectFilePath": "Y:\\c#laptop\\c_sharp\\bench-lesson2\\bench-lesson2.csproj",
+  "projectFilePath": "E:\\c#laptop\\c_sharp\\bench-lesson2\\bench-lesson2.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

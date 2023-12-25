@@ -1,29 +1,31 @@
 ﻿using System;
 
 public class Answer {
-
-    static int FindMax(int a, int b, int c)
+    
+  static int FindMax(int a, int b, int c)
     {
-        if (a > b || a > c)
-        {
-            System.Console.WriteLine(a);
-            return a;
-        }
-        if (b > a || b > c)
-        {
-            System.Console.WriteLine(b);
-            return b;
-        }
-        if (c > a || c > b)
-        {
-            System.Console.WriteLine(c);
-            return c;
-        }
-
+        int max = a;
+      // Введите свое решение ниже
+    if(a>b&&c<a)
+      {
+       max = a;
+            
+      }
+      else if(b>a&&c<b)
+      {
+       max = b;
+       
+      }else if(c>a&&b<c)
+      {
+       max = c;
+       
+      }
+    
+   return max; 
     }
 
-    // Не удаляйте и не меняйте метод Main! 
-    static public void Main(string[] args) {
+  // Не удаляйте и не меняйте метод Main! 
+  static public void Main(string[] args) {
         int a, b, c;
 
         if (args.Length >= 3) {
@@ -32,9 +34,9 @@ public class Answer {
            c = int.Parse(args[2]);
         } else {
            // Здесь вы можете поменять значения для отправки кода на Выполнение
-           a = 3;
-           b = 6;
-           c = 7;
+           a = 150;
+           b = 1;
+           c = 12;
         }
 
         // Не удаляйте строки ниже
