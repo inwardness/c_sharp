@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "Y:\\c#laptop\\c_sharp\\21.1223-4\\21.1223-4.csproj": {}
+    "D:\\c_sharp\\21.1223-4\\21.1223-4.csproj": {}
   },
   "projects": {
-    "Y:\\c#laptop\\c_sharp\\21.1223-4\\21.1223-4.csproj": {
+    "D:\\c_sharp\\21.1223-4\\21.1223-4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Y:\\c#laptop\\c_sharp\\21.1223-4\\21.1223-4.csproj",
+        "projectUniqueName": "D:\\c_sharp\\21.1223-4\\21.1223-4.csproj",
         "projectName": "21.1223-4",
-        "projectPath": "Y:\\c#laptop\\c_sharp\\21.1223-4\\21.1223-4.csproj",
+        "projectPath": "D:\\c_sharp\\21.1223-4\\21.1223-4.csproj",
         "packagesPath": "C:\\Users\\polynom\\.nuget\\packages\\",
-        "outputPath": "Y:\\c#laptop\\c_sharp\\21.1223-4\\obj\\",
+        "outputPath": "D:\\c_sharp\\21.1223-4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\polynom\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\polynom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "c:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
