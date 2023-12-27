@@ -3,20 +3,11 @@
 *.git exe
 *.pdb
 *json
-*Assemblyinfo.cs
-*AssemblyInfoInputs.cs
-*AssemblyInfoInputs.cache
-*asset.cache
-*.csproj.nuget.dgspec.json
-*project.assets.json
-*project.nuget.cache
 *.assets.cache
-*.csproj.CoreCompileInputs.cache
-*.csproj.FileListAbsolute.txt
+*.csproj*
+*.csproj.nuget*
 *.GeneratedMSBuildEditorConfig.editorconfig
 *.genruntimeconfig.cache
 *apphost.exe
+*nuget*
 
-21.1223-4/obj/Debug/net8.0/21.1223-4.csproj.FileListAbsolute.txt
-21.1223-4/obj/Debug/net8.0/21.1223-4.assets.cache
-/obj/*
