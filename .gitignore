@@ -31,3 +31,10 @@ homework/taskF19.12.23/Task1/obj/Debug/net8.0/Task1.GlobalUsings.g.cs
 21.12.23/Task2/obj/Debug/net8.0/Task2.AssemblyInfoInputs.cache
 third/obj/Debug/net8.0/third.AssemblyInfo.cs
 third/obj/Debug/net8.0/third.AssemblyInfoInputs.cache
+ 
+ 
+ *.exe
+ *AssemblyAttributes.cs
+ *AssemblyInfo.cs
+ *AssemblyInfoInputs.cache
+ *GlobalUsings.g.cs
