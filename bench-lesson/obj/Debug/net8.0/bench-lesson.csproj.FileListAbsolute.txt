@@ -1,0 +1,15 @@
+Y:\c#laptop\c_sharp\bench-lesson\obj\Debug\net8.0\bench-lesson.GeneratedMSBuildEditorConfig.editorconfig
+Y:\c#laptop\c_sharp\bench-lesson\obj\Debug\net8.0\bench-lesson.AssemblyInfoInputs.cache
+Y:\c#laptop\c_sharp\bench-lesson\obj\Debug\net8.0\bench-lesson.AssemblyInfo.cs
+Y:\c#laptop\c_sharp\bench-lesson\obj\Debug\net8.0\bench-lesson.csproj.CoreCompileInputs.cache
+Y:\c#laptop\c_sharp\bench-lesson\obj\Debug\net8.0\bench-lesson.sourcelink.json
+Y:\c#laptop\c_sharp\bench-lesson\bin\Debug\net8.0\bench-lesson.exe
+Y:\c#laptop\c_sharp\bench-lesson\bin\Debug\net8.0\bench-lesson.deps.json
+Y:\c#laptop\c_sharp\bench-lesson\bin\Debug\net8.0\bench-lesson.runtimeconfig.json
+Y:\c#laptop\c_sharp\bench-lesson\bin\Debug\net8.0\bench-lesson.dll
+Y:\c#laptop\c_sharp\bench-lesson\bin\Debug\net8.0\bench-lesson.pdb
+Y:\c#laptop\c_sharp\bench-lesson\obj\Debug\net8.0\bench-lesson.dll
+Y:\c#laptop\c_sharp\bench-lesson\obj\Debug\net8.0\refint\bench-lesson.dll
+Y:\c#laptop\c_sharp\bench-lesson\obj\Debug\net8.0\bench-lesson.pdb
+Y:\c#laptop\c_sharp\bench-lesson\obj\Debug\net8.0\bench-lesson.genruntimeconfig.cache
+Y:\c#laptop\c_sharp\bench-lesson\obj\Debug\net8.0\ref\bench-lesson.dll
