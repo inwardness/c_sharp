@@ -20,3 +20,12 @@
 21.1223-4/obj/Debug/net8.0/21.1223-4.csproj.FileListAbsolute.txt
 21.1223-4/obj/Debug/net8.0/21.1223-4.assets.cache
 /obj/*
+*.csproj
+*.nuget.g.props
+*.nuget.g.targets
+*.csproj
+*.nuget.g.props
+*.nuget.g.targets
+*.AssemblyAttributes.cs
+*.lobalUsings.g.cs
+*.GlobalUsings.g.cs
