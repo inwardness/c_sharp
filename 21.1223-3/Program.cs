@@ -1,4 +1,6 @@
-﻿Console.WriteLine("введите первое число");
+﻿//остаток от деления кратный или нет
+
+Console.WriteLine("введите первое число");
 int num1 = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("введите  второе число");
 int num2 = Convert.ToInt32(Console.ReadLine());
