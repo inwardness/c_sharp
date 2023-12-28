@@ -4,8 +4,8 @@
 *.pdb
 *json
 *Assemblyinfo.cs
-*AssemblyInfoInputs.cs
-*AssemblyInfoInputs.cache
+*.AssemblyInfoInputs.cs
+*.AssemblyInfoInputs.cache
 *asset.cache
 *.csproj.nuget.dgspec.json
 *project.assets.json
