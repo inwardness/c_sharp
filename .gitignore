@@ -11,6 +11,7 @@
 *project.assets.json
 *project.nuget.cache
 *.assets.cache
+*.assets.json
 *.csproj.CoreCompileInputs.cache
 *.csproj.FileListAbsolute.txt
 *.GeneratedMSBuildEditorConfig.editorconfig
