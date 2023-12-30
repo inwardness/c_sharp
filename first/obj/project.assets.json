@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\c#laptop\\c_sharp\\first\\first.csproj",
+      "projectUniqueName": "D:\\c_sharp\\first\\first.csproj",
       "projectName": "first",
-      "projectPath": "E:\\c#laptop\\c_sharp\\first\\first.csproj",
+      "projectPath": "D:\\c_sharp\\first\\first.csproj",
       "packagesPath": "C:\\Users\\polynom\\.nuget\\packages\\",
-      "outputPath": "E:\\c#laptop\\c_sharp\\first\\obj\\",
+      "outputPath": "D:\\c_sharp\\first\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\polynom\\AppData\\Roaming\\NuGet\\NuGet.Config",

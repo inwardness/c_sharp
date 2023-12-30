@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\c#laptop\\c_sharp\\fifth\\fifth.csproj": {}
+    "D:\\c_sharp\\fifth\\fifth.csproj": {}
   },
   "projects": {
-    "E:\\c#laptop\\c_sharp\\fifth\\fifth.csproj": {
+    "D:\\c_sharp\\fifth\\fifth.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\c#laptop\\c_sharp\\fifth\\fifth.csproj",
+        "projectUniqueName": "D:\\c_sharp\\fifth\\fifth.csproj",
         "projectName": "fifth",
-        "projectPath": "E:\\c#laptop\\c_sharp\\fifth\\fifth.csproj",
+        "projectPath": "D:\\c_sharp\\fifth\\fifth.csproj",
         "packagesPath": "C:\\Users\\polynom\\.nuget\\packages\\",
-        "outputPath": "E:\\c#laptop\\c_sharp\\fifth\\obj\\",
+        "outputPath": "D:\\c_sharp\\fifth\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\polynom\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\c#laptop\\c_sharp\\21.12.23\\Task1\\Task1.csproj": {}
+    "D:\\c_sharp\\21.12.23\\Task1\\Task1.csproj": {}
   },
   "projects": {
-    "E:\\c#laptop\\c_sharp\\21.12.23\\Task1\\Task1.csproj": {
+    "D:\\c_sharp\\21.12.23\\Task1\\Task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\c#laptop\\c_sharp\\21.12.23\\Task1\\Task1.csproj",
+        "projectUniqueName": "D:\\c_sharp\\21.12.23\\Task1\\Task1.csproj",
         "projectName": "Task1",
-        "projectPath": "E:\\c#laptop\\c_sharp\\21.12.23\\Task1\\Task1.csproj",
+        "projectPath": "D:\\c_sharp\\21.12.23\\Task1\\Task1.csproj",
         "packagesPath": "C:\\Users\\polynom\\.nuget\\packages\\",
-        "outputPath": "E:\\c#laptop\\c_sharp\\21.12.23\\Task1\\obj\\",
+        "outputPath": "D:\\c_sharp\\21.12.23\\Task1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\polynom\\AppData\\Roaming\\NuGet\\NuGet.Config",

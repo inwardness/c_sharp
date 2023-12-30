@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\c#laptop\\c_sharp\\third\\third.csproj": {}
+    "D:\\c_sharp\\third\\third.csproj": {}
   },
   "projects": {
-    "E:\\c#laptop\\c_sharp\\third\\third.csproj": {
+    "D:\\c_sharp\\third\\third.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\c#laptop\\c_sharp\\third\\third.csproj",
+        "projectUniqueName": "D:\\c_sharp\\third\\third.csproj",
         "projectName": "third",
-        "projectPath": "E:\\c#laptop\\c_sharp\\third\\third.csproj",
+        "projectPath": "D:\\c_sharp\\third\\third.csproj",
         "packagesPath": "C:\\Users\\polynom\\.nuget\\packages\\",
-        "outputPath": "E:\\c#laptop\\c_sharp\\third\\obj\\",
+        "outputPath": "D:\\c_sharp\\third\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\polynom\\AppData\\Roaming\\NuGet\\NuGet.Config",
