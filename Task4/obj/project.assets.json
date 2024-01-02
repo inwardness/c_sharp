@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\c_sharp\\homework\\taskF28.12.23\\Task4\\Task4.csproj",
+      "projectUniqueName": "C:\\c_sharp\\homework\\taskF28.12.23\\Task4\\Task4.csproj",
       "projectName": "Task4",
-      "projectPath": "D:\\c_sharp\\homework\\taskF28.12.23\\Task4\\Task4.csproj",
+      "projectPath": "C:\\c_sharp\\homework\\taskF28.12.23\\Task4\\Task4.csproj",
       "packagesPath": "C:\\Users\\polynom\\.nuget\\packages\\",
-      "outputPath": "D:\\c_sharp\\homework\\taskF28.12.23\\Task4\\obj\\",
+      "outputPath": "C:\\c_sharp\\homework\\taskF28.12.23\\Task4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\polynom\\AppData\\Roaming\\NuGet\\NuGet.Config"
