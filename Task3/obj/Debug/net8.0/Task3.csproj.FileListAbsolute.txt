@@ -1,0 +1,15 @@
+D:\c_sharp\homework\taskF28.12.23\Task3\obj\Debug\net8.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\c_sharp\homework\taskF28.12.23\Task3\obj\Debug\net8.0\Task3.AssemblyInfoInputs.cache
+D:\c_sharp\homework\taskF28.12.23\Task3\obj\Debug\net8.0\Task3.AssemblyInfo.cs
+D:\c_sharp\homework\taskF28.12.23\Task3\obj\Debug\net8.0\Task3.csproj.CoreCompileInputs.cache
+D:\c_sharp\homework\taskF28.12.23\Task3\obj\Debug\net8.0\Task3.sourcelink.json
+D:\c_sharp\homework\taskF28.12.23\Task3\bin\Debug\net8.0\Task3.exe
+D:\c_sharp\homework\taskF28.12.23\Task3\bin\Debug\net8.0\Task3.deps.json
+D:\c_sharp\homework\taskF28.12.23\Task3\bin\Debug\net8.0\Task3.runtimeconfig.json
+D:\c_sharp\homework\taskF28.12.23\Task3\bin\Debug\net8.0\Task3.dll
+D:\c_sharp\homework\taskF28.12.23\Task3\bin\Debug\net8.0\Task3.pdb
+D:\c_sharp\homework\taskF28.12.23\Task3\obj\Debug\net8.0\Task3.dll
+D:\c_sharp\homework\taskF28.12.23\Task3\obj\Debug\net8.0\refint\Task3.dll
+D:\c_sharp\homework\taskF28.12.23\Task3\obj\Debug\net8.0\Task3.pdb
+D:\c_sharp\homework\taskF28.12.23\Task3\obj\Debug\net8.0\Task3.genruntimeconfig.cache
+D:\c_sharp\homework\taskF28.12.23\Task3\obj\Debug\net8.0\ref\Task3.dll
