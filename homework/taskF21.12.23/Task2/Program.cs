@@ -5,17 +5,18 @@ Console.WriteLine("Enter the number N =");
 int N = Convert.ToInt32(Console.ReadLine());
 int negN = -1 * N;
 int i;
-if(N>0){
-for(i = negN;i<=N;++i)
+if (N > 0)
 {
-    Console.Write($"{i} ");
+    for (i = negN; i <= N; ++i)
+    {
+        Console.Write($"{i} ");
+    }
 }
-}
-else 
+else
 {
-    for(i = N;i<=negN;++i)
-{
-    
-    Console.Write($"{-1*i} ");
-}
+    for (i = N; i <= negN; ++i)
+    {
+
+        Console.Write($"{-1 * i} ");
+    }
 }

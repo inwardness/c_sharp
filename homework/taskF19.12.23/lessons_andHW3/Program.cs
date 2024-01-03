@@ -1,4 +1,5 @@
-
+//Задача с пятью гирями
+//найти вес самой тяжёлой
 
 Console.WriteLine("enter value first weight:");
 int weigths1 = Convert.ToInt32(Console.ReadLine());
@@ -13,23 +14,23 @@ int weigths5 = Convert.ToInt32(Console.ReadLine());
 
 int max = weigths1;
 
-    if(weigths2 > max)
+if (weigths2 > max)
 {
     max = weigths2;
 }
 
-    if(weigths3 > max)
+if (weigths3 > max)
 {
     max = weigths3;
 }
 
-    if(weigths4 > max)
+if (weigths4 > max)
 {
     max = weigths4;
 }
 
-    if(weigths5 > max)
+if (weigths5 > max)
 {
     max = weigths5;
 }
-   Console.WriteLine($"max weight is:{max}");
+Console.WriteLine($"max weight is:{max}");
