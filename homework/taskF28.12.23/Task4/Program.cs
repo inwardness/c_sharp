@@ -1,19 +1,39 @@
-﻿
+﻿//Напишите программу, которая на вход
+//принимает натуральное число N, а на выходе
+//показывает его цифры через запятую
 Console.WriteLine("Enter number:");
-int numberIn = Convert.ToInt32(Console.ReadLine());
+int valueInput = Convert.ToInt32(Console.ReadLine());
+int i;
+int rate = 1;
+int counter = 0;
+int valueCount = 0;
+int reminder = 0;
+//create the value of position power
+counter = valueInput;
+while (counter > 0)
+{
+    counter /= 10;
+    valueCount = valueCount + 1;
+}
 
-int x = 0;
-int y = 0;
-int count = 0;
-while(numberIn > 0)
-    {   
-     count = count + 1;
-     x = numberIn%10; 
-     Console.Write($"{x}\n");
-     int degree = count(count-1)
-     y = 
-     numberIn/=10;
+for (i = 1; i < valueCount; ++i)
+{
+    rate *= 10;
+}
+//deviding input value by the position of numbers
+if (valueCount == 1)
+{
+    Console.Write($"{valueInput}");
+}
+else
+{
+    while (valueInput > 0)
+    {
+        int quotient = valueInput / rate;
+        int quotDigit = quotient;
+        Console.Write($"{quotDigit},");
+        reminder = valueInput % rate;
+        valueInput = valueInput % rate;
+        rate /= 10;
     }
-    Console.Write('\n'); 
-    Console.Write($"{count}");
-   
+}
