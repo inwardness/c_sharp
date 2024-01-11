@@ -11,4 +11,5 @@ Console.WriteLine(arr[2]);
 Console.WriteLine(arr[3]);
 Console.WriteLine(arr[4]);
 
-Console.WriteLine(arr[5]);
+int [] arr2 =new int[5]
+//Console.WriteLine(arr[5]);
