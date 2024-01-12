@@ -10,14 +10,16 @@ class UserInputToCompileForTest
     // maxRange - максимальная граница диапазона
     public static int CountItemsRange(int[] numbers, int minRange, int maxRange)
     {
-        //Введите сюда свое решен
-    }
+        //Введите юда свое решен
+        Console.WriteLine(nsole.Write);
 
     public static void PrintResult(int[] array)
     {
 
         //Введите сюда свое решение
        
+    }
+
     }
 
 }
