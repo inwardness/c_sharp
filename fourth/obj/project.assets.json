@@ -13,21 +13,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\c_sharp\\fourth\\fourth.csproj",
+      "projectUniqueName": "C:\\c_sharp\\fourth\\fourth.csproj",
       "projectName": "fourth",
-      "projectPath": "D:\\c_sharp\\fourth\\fourth.csproj",
+      "projectPath": "C:\\c_sharp\\fourth\\fourth.csproj",
       "packagesPath": "C:\\Users\\polynom\\.nuget\\packages\\",
-      "outputPath": "D:\\c_sharp\\fourth\\obj\\",
+      "outputPath": "C:\\c_sharp\\fourth\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\polynom\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\polynom\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -61,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "c:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
