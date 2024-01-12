@@ -10,26 +10,14 @@ class UserInputToCompileForTest
     // maxRange - максимальная граница диапазона
     public static int CountItemsRange(int[] numbers, int minRange, int maxRange)
     {
-        //Введите сюда свое решение
-        int[] number = new int[] { 10, 30, 2, 40, 99, 52, 100, 35};
-        minRange =10;
-        maxRange =90;
-        int arr =0;
-        for (int i = 0; i < numbers.Length; i++)
-            if (numbers[i] >= minRange && numbers[i] <= maxRange)
-            {
-                 arr = arr + 1;
-            }
-
-    return arr;
-
+        //Введите сюда свое решен
     }
 
     public static void PrintResult(int[] array)
     {
 
         //Введите сюда свое решение
-        PrintResult(array);
+       
     }
 
 }
