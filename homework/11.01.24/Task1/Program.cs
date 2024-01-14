@@ -8,22 +8,38 @@ class UserInputToCompileForTest
     // numbers - массив, в котором ведется подсчет
     // minRange - минимальная граница диапазона
     // maxRange - максимальная граница диапазона
+
     public static int CountItemsRange(int[] numbers, int minRange, int maxRange)
     {
-        //Введите юда свое решен
-        Console.WriteLine(nsole.Write);
+        //Введите сюда свое решен
+        int[] numbers = new int[] { 1, 5, 10, 20, 30, 40, 99, 4, 90, 3 };
+        int[] array = new int[10];
+         minRange = 10;
+         maxRange = 90;
+        for (int i = 0; i < numbers.Length; ++i)
+        {
+            if (numbers[i] >= minRange && numbers[i] <= maxRange)
+            {
+                for (int j = 0; j < array.Length; ++j)
+                {
+                    array[j] = numbers[i];
+                }
+            }
+        }
+        
+    }
 
     public static void PrintResult(int[] array)
     {
-
         //Введите сюда свое решение
-       
+        int count = 0;
+        for (int i = 0; i < array.Length; ++i)
+        {
+            ++count;
+        }
+        Console.WriteLine($"Выводится:{count}");
     }
-
-    }
-
 }
-
 
 //Не удаляйте и не меняйте класс Answer!
 class Answer
@@ -32,19 +48,15 @@ class Answer
     {
         int[] array;
 
-
         if (args.Length >= 1)
         {
             // Объединяем все аргументы командной строки в одну строку
             string joinedArgs = string.Join(" ", args);
 
             // Разделяем строку по запятой с пробелом и преобразуем в массив целых чисел
-            array = joinedArgs.Split(", ")
-                                  .Select(int.Parse)
-                                  .ToArray();
+            array = joinedArgs.Split(", ").Select(int.Parse).ToArray();
 
             // Теперь arr содержит преобразованные в целые числа из командной строки
-
         }
         else
         {
