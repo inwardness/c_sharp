@@ -13,6 +13,7 @@ double sum3 = d1 + i1;
 int product1 = i1*i2;
 long product2 = l1*i1;
 double product3 = i1*d1;
+Console.WriteLine
 System.Console.WriteLine(product1);
 System.Console.WriteLine(product2);
 System.Console.WriteLine(product3);
