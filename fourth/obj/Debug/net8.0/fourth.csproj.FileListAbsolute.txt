@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 D:\c_sharp\fourth\bin\Debug\net8.0\fourth.exe
 D:\c_sharp\fourth\bin\Debug\net8.0\fourth.deps.json
 D:\c_sharp\fourth\bin\Debug\net8.0\fourth.runtimeconfig.json
@@ -28,3 +29,5 @@ C:\c_sharp\fourth\obj\Debug\net8.0\refint\fourth.dll
 C:\c_sharp\fourth\obj\Debug\net8.0\fourth.pdb
 C:\c_sharp\fourth\obj\Debug\net8.0\fourth.genruntimeconfig.cache
 C:\c_sharp\fourth\obj\Debug\net8.0\ref\fourth.dll
+=======
+>>>>>>> PC

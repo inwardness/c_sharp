@@ -13,11 +13,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\c_sharp\\21.12.23\\Task2\\Task2.csproj",
       "projectName": "Task2",
       "projectPath": "C:\\c_sharp\\21.12.23\\Task2\\Task2.csproj",
       "packagesPath": "C:\\Users\\polynom\\.nuget\\packages\\",
       "outputPath": "C:\\c_sharp\\21.12.23\\Task2\\obj\\",
+=======
+      "projectUniqueName": "D:\\c_sharp\\21.12.23\\Task2\\Task2.csproj",
+      "projectName": "Task2",
+      "projectPath": "D:\\c_sharp\\21.12.23\\Task2\\Task2.csproj",
+      "packagesPath": "C:\\Users\\polynom\\.nuget\\packages\\",
+      "outputPath": "D:\\c_sharp\\21.12.23\\Task2\\obj\\",
+>>>>>>> PC
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\polynom\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "T6uIYC3FgLX7Zu8DLUROjg00J9RVyeIjUgsEZlNXXZPVQGHsm7Uu9XPyYJIjvqkgHaW3OnZYV7VTI3dZD1c1Dw==",
   "success": true,
   "projectFilePath": "C:\\c_sharp\\third\\third.csproj",
+=======
+  "dgSpecHash": "qAPW7ChOrguF72SlOZJKJ6H+xcixpfZFFQ271wjEGr3HfJNkSd118g6ZThdEXjuFv0vA0/7UxJVEOOGyEx0Z6Q==",
+  "success": true,
+  "projectFilePath": "D:\\c_sharp\\third\\third.csproj",
+>>>>>>> PC
   "expectedPackageFiles": [],
   "logs": [
     {

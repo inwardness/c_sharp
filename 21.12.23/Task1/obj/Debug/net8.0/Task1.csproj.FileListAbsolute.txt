@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 D:\c_sharp\21.12.23\Task1\obj\Debug\net8.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
 D:\c_sharp\21.12.23\Task1\obj\Debug\net8.0\Task1.AssemblyInfoInputs.cache
 D:\c_sharp\21.12.23\Task1\obj\Debug\net8.0\Task1.AssemblyInfo.cs
@@ -18,3 +19,5 @@ C:\c_sharp\21.12.23\Task1\obj\Debug\net8.0\refint\Task1.dll
 C:\c_sharp\21.12.23\Task1\obj\Debug\net8.0\Task1.pdb
 C:\c_sharp\21.12.23\Task1\obj\Debug\net8.0\Task1.genruntimeconfig.cache
 C:\c_sharp\21.12.23\Task1\obj\Debug\net8.0\ref\Task1.dll
+=======
+>>>>>>> PC

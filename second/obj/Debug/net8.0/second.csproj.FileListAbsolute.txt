@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 D:\c_sharp\second\bin\Debug\net8.0\second.exe
 D:\c_sharp\second\bin\Debug\net8.0\second.deps.json
 D:\c_sharp\second\bin\Debug\net8.0\second.runtimeconfig.json
@@ -28,3 +29,5 @@ C:\c_sharp\second\obj\Debug\net8.0\refint\second.dll
 C:\c_sharp\second\obj\Debug\net8.0\second.pdb
 C:\c_sharp\second\obj\Debug\net8.0\second.genruntimeconfig.cache
 C:\c_sharp\second\obj\Debug\net8.0\ref\second.dll
+=======
+>>>>>>> PC

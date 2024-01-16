@@ -13,11 +13,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\c_sharp\\fourth\\fourth.csproj",
       "projectName": "fourth",
       "projectPath": "C:\\c_sharp\\fourth\\fourth.csproj",
       "packagesPath": "C:\\Users\\polynom\\.nuget\\packages\\",
       "outputPath": "C:\\c_sharp\\fourth\\obj\\",
+=======
+      "projectUniqueName": "D:\\c_sharp\\fourth\\fourth.csproj",
+      "projectName": "fourth",
+      "projectPath": "D:\\c_sharp\\fourth\\fourth.csproj",
+      "packagesPath": "C:\\Users\\polynom\\.nuget\\packages\\",
+      "outputPath": "D:\\c_sharp\\fourth\\obj\\",
+>>>>>>> PC
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\polynom\\AppData\\Roaming\\NuGet\\NuGet.Config"

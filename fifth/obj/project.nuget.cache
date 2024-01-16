@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "jxYNTi6/ccttNtkKZ0XFDqNoOeEZbwDz5eHn4H2R9pvNIsJ8zETHTBetQ0GrwCtKwJeMcV8ChvcMes9xwmhp7g==",
   "success": true,
   "projectFilePath": "C:\\c_sharp\\fifth\\fifth.csproj",
+=======
+  "dgSpecHash": "PX9bUvL32F7ovUYoXYzGagqJCwaRG4St7NemaQ6tFT4whlz4+Gx4r4CE4UEOQhnza5v4WEwmxoCx/har1PWYDQ==",
+  "success": true,
+  "projectFilePath": "D:\\c_sharp\\fifth\\fifth.csproj",
+>>>>>>> PC
   "expectedPackageFiles": [],
   "logs": []
 }

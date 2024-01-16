@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 D:\c_sharp\21.12.23\Task2\bin\Debug\net8.0\Task2.exe
 D:\c_sharp\21.12.23\Task2\bin\Debug\net8.0\Task2.deps.json
 D:\c_sharp\21.12.23\Task2\bin\Debug\net8.0\Task2.runtimeconfig.json
@@ -28,3 +29,5 @@ C:\c_sharp\21.12.23\Task2\obj\Debug\net8.0\refint\Task2.dll
 C:\c_sharp\21.12.23\Task2\obj\Debug\net8.0\Task2.pdb
 C:\c_sharp\21.12.23\Task2\obj\Debug\net8.0\Task2.genruntimeconfig.cache
 C:\c_sharp\21.12.23\Task2\obj\Debug\net8.0\ref\Task2.dll
+=======
+>>>>>>> PC

@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\c_sharp\\second\\second.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\c_sharp\\second\\second.csproj",
         "packagesPath": "C:\\Users\\polynom\\.nuget\\packages\\",
         "outputPath": "C:\\c_sharp\\second\\obj\\",
+=======
+    "D:\\c_sharp\\second\\second.csproj": {}
+  },
+  "projects": {
+    "D:\\c_sharp\\second\\second.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\c_sharp\\second\\second.csproj",
+        "projectName": "second",
+        "projectPath": "D:\\c_sharp\\second\\second.csproj",
+        "packagesPath": "C:\\Users\\polynom\\.nuget\\packages\\",
+        "outputPath": "D:\\c_sharp\\second\\obj\\",
+>>>>>>> PC
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\polynom\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -12,6 +12,7 @@ Y:\c#laptop\first\obj\Debug\net8.0\refint\first.dll
 Y:\c#laptop\first\obj\Debug\net8.0\first.pdb
 Y:\c#laptop\first\obj\Debug\net8.0\first.genruntimeconfig.cache
 Y:\c#laptop\first\obj\Debug\net8.0\ref\first.dll
+<<<<<<< HEAD
 D:\c_sharp\first\bin\Debug\net8.0\first.exe
 D:\c_sharp\first\bin\Debug\net8.0\first.deps.json
 D:\c_sharp\first\bin\Debug\net8.0\first.runtimeconfig.json
@@ -42,3 +43,5 @@ C:\c_sharp\first\obj\Debug\net8.0\refint\first.dll
 C:\c_sharp\first\obj\Debug\net8.0\first.pdb
 C:\c_sharp\first\obj\Debug\net8.0\first.genruntimeconfig.cache
 C:\c_sharp\first\obj\Debug\net8.0\ref\first.dll
+=======
+>>>>>>> PC

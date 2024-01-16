@@ -13,11 +13,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\c_sharp\\third\\third.csproj",
       "projectName": "third",
       "projectPath": "C:\\c_sharp\\third\\third.csproj",
       "packagesPath": "C:\\Users\\polynom\\.nuget\\packages\\",
       "outputPath": "C:\\c_sharp\\third\\obj\\",
+=======
+      "projectUniqueName": "D:\\c_sharp\\third\\third.csproj",
+      "projectName": "third",
+      "projectPath": "D:\\c_sharp\\third\\third.csproj",
+      "packagesPath": "C:\\Users\\polynom\\.nuget\\packages\\",
+      "outputPath": "D:\\c_sharp\\third\\obj\\",
+>>>>>>> PC
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\polynom\\AppData\\Roaming\\NuGet\\NuGet.Config"

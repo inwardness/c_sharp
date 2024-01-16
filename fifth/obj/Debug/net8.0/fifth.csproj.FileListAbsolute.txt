@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 D:\c_sharp\fifth\bin\Debug\net8.0\fifth.exe
 D:\c_sharp\fifth\bin\Debug\net8.0\fifth.deps.json
 D:\c_sharp\fifth\bin\Debug\net8.0\fifth.runtimeconfig.json
@@ -28,3 +29,5 @@ C:\c_sharp\fifth\obj\Debug\net8.0\refint\fifth.dll
 C:\c_sharp\fifth\obj\Debug\net8.0\fifth.pdb
 C:\c_sharp\fifth\obj\Debug\net8.0\fifth.genruntimeconfig.cache
 C:\c_sharp\fifth\obj\Debug\net8.0\ref\fifth.dll
+=======
+>>>>>>> PC

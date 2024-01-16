@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 D:\c_sharp\third\bin\Debug\net8.0\third.exe
 D:\c_sharp\third\bin\Debug\net8.0\third.deps.json
 D:\c_sharp\third\bin\Debug\net8.0\third.runtimeconfig.json
@@ -28,3 +29,5 @@ C:\c_sharp\third\obj\Debug\net8.0\refint\third.dll
 C:\c_sharp\third\obj\Debug\net8.0\third.pdb
 C:\c_sharp\third\obj\Debug\net8.0\third.genruntimeconfig.cache
 C:\c_sharp\third\obj\Debug\net8.0\ref\third.dll
+=======
+>>>>>>> PC
