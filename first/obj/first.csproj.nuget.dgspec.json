@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "d:\\c_sharp\\first\\first.csproj": {}
+    "D:\\c_sharp\\first\\first.csproj": {}
   },
   "projects": {
-    "d:\\c_sharp\\first\\first.csproj": {
+    "D:\\c_sharp\\first\\first.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\c_sharp\\first\\first.csproj",
+        "projectUniqueName": "D:\\c_sharp\\first\\first.csproj",
         "projectName": "first",
-        "projectPath": "d:\\c_sharp\\first\\first.csproj",
+        "projectPath": "D:\\c_sharp\\first\\first.csproj",
         "packagesPath": "C:\\Users\\polynom\\.nuget\\packages\\",
-        "outputPath": "d:\\c_sharp\\first\\obj\\",
+        "outputPath": "D:\\c_sharp\\first\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\polynom\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\polynom\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

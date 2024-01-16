@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NlnT5Ek+cK+mEf7bQsbR1hYIJT1wKWr1WB6RJTOD1y1lAJweJ50wLVLsgG+vlNq//OWn8+IzjU02rFxVeTJ2dw==",
+  "dgSpecHash": "s+ClL+gRQvh/pTyMq6jWAZ4vbMMxjpBuuyHpEv0RwpckgJRkLliK0/ch1Lh6Fu3xWzJJoZ51+YY79yb4FGorFw==",
   "success": true,
-  "projectFilePath": "d:\\c_sharp\\second\\second.csproj",
+  "projectFilePath": "D:\\c_sharp\\second\\second.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
