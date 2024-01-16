@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "d:\\c_sharp\\21.12.23\\Task1\\Task1.csproj": {}
+    "C:\\c_sharp\\21.12.23\\Task1\\Task1.csproj": {}
   },
   "projects": {
-    "d:\\c_sharp\\21.12.23\\Task1\\Task1.csproj": {
+    "C:\\c_sharp\\21.12.23\\Task1\\Task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\c_sharp\\21.12.23\\Task1\\Task1.csproj",
+        "projectUniqueName": "C:\\c_sharp\\21.12.23\\Task1\\Task1.csproj",
         "projectName": "Task1",
-        "projectPath": "d:\\c_sharp\\21.12.23\\Task1\\Task1.csproj",
+        "projectPath": "C:\\c_sharp\\21.12.23\\Task1\\Task1.csproj",
         "packagesPath": "C:\\Users\\polynom\\.nuget\\packages\\",
-        "outputPath": "d:\\c_sharp\\21.12.23\\Task1\\obj\\",
+        "outputPath": "C:\\c_sharp\\21.12.23\\Task1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\polynom\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\polynom\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "c:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

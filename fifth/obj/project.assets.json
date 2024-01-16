@@ -13,21 +13,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\c_sharp\\fifth\\fifth.csproj",
+      "projectUniqueName": "C:\\c_sharp\\fifth\\fifth.csproj",
       "projectName": "fifth",
-      "projectPath": "d:\\c_sharp\\fifth\\fifth.csproj",
+      "projectPath": "C:\\c_sharp\\fifth\\fifth.csproj",
       "packagesPath": "C:\\Users\\polynom\\.nuget\\packages\\",
-      "outputPath": "d:\\c_sharp\\fifth\\obj\\",
+      "outputPath": "C:\\c_sharp\\fifth\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\polynom\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\polynom\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -61,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "c:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
