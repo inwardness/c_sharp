@@ -1,16 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
-<<<<<<< HEAD
   "dgSpecHash": "WLx/00Xq+t9nYzo5GNpee/g72oU7Ym96OECIXNUIyJ0gfhZIpxraODXND5sLJkohtbHZMz07vEI6bb3oPCkL3A==",
-=======
-  "dgSpecHash": "jGC8gEYUV/GHFyJV2jPwRmivXRdE/IhzO6XWtQaqwEc1A+MG2dHHL7xa8UjpI029zfSDXo2oNf9PIvXf9tqYVg==",
->>>>>>> 02e4dad16f27a18ced78422740e0c0e225064905
-=======
-  "dgSpecHash": "jGC8gEYUV/GHFyJV2jPwRmivXRdE/IhzO6XWtQaqwEc1A+MG2dHHL7xa8UjpI029zfSDXo2oNf9PIvXf9tqYVg==",
->>>>>>> 02e4dad16f27a18ced78422740e0c0e225064905
   "success": true,
-  "projectFilePath": "C:\\c_sharp\\21.12.23\\Task2\\Task2.csproj",
+  "projectFilePath": "D:\\c_sharp\\21.12.23\\Task2\\Task2.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file D:\\c_sharp\\21.12.23\\Task2\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

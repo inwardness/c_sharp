@@ -1,16 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
-<<<<<<< HEAD
   "dgSpecHash": "6hDqDsQD/vXPkzX8bW64We3QUfoUEfc38QzRYa2QwQ0vU/rhNmECAdKUk0crBxjW6THttQj2KH0m7MpJue5hxg==",
-=======
-  "dgSpecHash": "1RwAoufp/zuPj5tpHClJ2rcQUVbQym5NwUs9sFEl9f9uE2qNFQfaohLEDadraKhvTGON+daNNFX4uWGbccIYFQ==",
->>>>>>> 02e4dad16f27a18ced78422740e0c0e225064905
-=======
-  "dgSpecHash": "1RwAoufp/zuPj5tpHClJ2rcQUVbQym5NwUs9sFEl9f9uE2qNFQfaohLEDadraKhvTGON+daNNFX4uWGbccIYFQ==",
->>>>>>> 02e4dad16f27a18ced78422740e0c0e225064905
   "success": true,
-  "projectFilePath": "C:\\c_sharp\\fourth\\fourth.csproj",
+  "projectFilePath": "D:\\c_sharp\\fourth\\fourth.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file D:\\c_sharp\\fourth\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

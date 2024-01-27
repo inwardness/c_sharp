@@ -14,24 +14,18 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\c_sharp\\fourth\\fourth.csproj",
+      "projectUniqueName": "D:\\c_sharp\\fourth\\fourth.csproj",
       "projectName": "fourth",
-      "projectPath": "C:\\c_sharp\\fourth\\fourth.csproj",
+      "projectPath": "D:\\c_sharp\\fourth\\fourth.csproj",
       "packagesPath": "C:\\Users\\polynom\\.nuget\\packages\\",
-      "outputPath": "C:\\c_sharp\\fourth\\obj\\",
+      "outputPath": "D:\\c_sharp\\fourth\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
         "C:\\Users\\polynom\\AppData\\Roaming\\NuGet\\NuGet.Config",
-<<<<<<< HEAD
-<<<<<<< HEAD
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-=======
->>>>>>> 02e4dad16f27a18ced78422740e0c0e225064905
-=======
->>>>>>> 02e4dad16f27a18ced78422740e0c0e225064905
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -75,5 +69,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file D:\\c_sharp\\fourth\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
