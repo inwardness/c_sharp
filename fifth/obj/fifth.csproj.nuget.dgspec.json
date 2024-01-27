@@ -1,24 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "D:\\c_sharp\\fifth\\fifth.csproj": {}
+    "C:\\c_sharp\\fifth\\fifth.csproj": {}
   },
   "projects": {
-    "D:\\c_sharp\\fifth\\fifth.csproj": {
+    "C:\\c_sharp\\fifth\\fifth.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\c_sharp\\fifth\\fifth.csproj",
+        "projectUniqueName": "C:\\c_sharp\\fifth\\fifth.csproj",
         "projectName": "fifth",
-        "projectPath": "D:\\c_sharp\\fifth\\fifth.csproj",
+        "projectPath": "C:\\c_sharp\\fifth\\fifth.csproj",
         "packagesPath": "C:\\Users\\polynom\\.nuget\\packages\\",
-        "outputPath": "D:\\c_sharp\\fifth\\obj\\",
+        "outputPath": "C:\\c_sharp\\fifth\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\polynom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+<<<<<<< HEAD
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+=======
+>>>>>>> 02e4dad16f27a18ced78422740e0c0e225064905
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

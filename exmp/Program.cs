@@ -1,8 +1,7 @@
-﻿internal class Program
+﻿
+string str = "1sG,:0"
+    foreach (char ch in str)
 {
-    private static void Main(string[] args)
-    {
-        Console.Write("nop");
-        Console.WriteLine("green_yard");
-    }
+    Console.WriteLine(ch + " - " + char.getUnicodeCategory(ch));\
+
 }

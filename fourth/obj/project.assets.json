@@ -14,18 +14,21 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\c_sharp\\fourth\\fourth.csproj",
+      "projectUniqueName": "C:\\c_sharp\\fourth\\fourth.csproj",
       "projectName": "fourth",
-      "projectPath": "D:\\c_sharp\\fourth\\fourth.csproj",
+      "projectPath": "C:\\c_sharp\\fourth\\fourth.csproj",
       "packagesPath": "C:\\Users\\polynom\\.nuget\\packages\\",
-      "outputPath": "D:\\c_sharp\\fourth\\obj\\",
+      "outputPath": "C:\\c_sharp\\fourth\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
         "C:\\Users\\polynom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+<<<<<<< HEAD
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+=======
+>>>>>>> 02e4dad16f27a18ced78422740e0c0e225064905
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -1,8 +1,12 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "h2maytUc3td3/WvxGwq/REjRDcyJs3kvZXDUijOpGVRc2b3bn1JA2RRPTGVl7JIj7cIFmtUKVyfXmhM65wt01Q==",
+=======
+  "dgSpecHash": "r9gA5qdefDIFf+35ws1ahxzWceFe4lgKbRvbQftTOZWur99Yl1i5QvGWODBUQnKo+iH2she6f0x+oXXYJJd6rw==",
+>>>>>>> 02e4dad16f27a18ced78422740e0c0e225064905
   "success": true,
-  "projectFilePath": "D:\\c_sharp\\21.12.23\\Task1\\Task1.csproj",
+  "projectFilePath": "C:\\c_sharp\\21.12.23\\Task1\\Task1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
