@@ -26,7 +26,10 @@
       "configFilePaths": [
         "C:\\Users\\polynom\\AppData\\Roaming\\NuGet\\NuGet.Config",
 <<<<<<< HEAD
+<<<<<<< HEAD
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+=======
+>>>>>>> 02e4dad16f27a18ced78422740e0c0e225064905
 =======
 >>>>>>> 02e4dad16f27a18ced78422740e0c0e225064905
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
