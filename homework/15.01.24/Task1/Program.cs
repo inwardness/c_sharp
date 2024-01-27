@@ -1,47 +1,59 @@
-﻿
-//Задача 1: Напишите программу, которая бесконечно запрашивает целые числа с консоли. 
-//Программа завершается при вводе символа ‘q’ или при вводе числа,
-// сумма цифр которого чётная.
 
-Console.WriteLine("Entered 'q' for exit or  any numbers whos sum  even :");
-Console.Read();
+﻿//Задача 1: Напишите программу, которая бесконечно
+//запрашивает целые числа с консоли. Программа
+//завершается при вводе символа ‘q’ или при вводе
+//числа, сумма цифр которого четная.
+Console.WriteLine("The program ends if the sum of the numbers of the entered value is even or when entering the letter  'q'");
+Console.WriteLine("Enter number:");
 
-
-string numbers(int num)
+string text;
+char ch = 'c';
+int number;
+int summa = 0;
+while (ch != 'q')
 {
-    int n = Convert.ToInt32(Console.ReadLine());
+    summa = 0; number = 0; 
+    text = Console.ReadLine();
 
-
-
-    while (n != q)
+    number = Convert.ToInt32(text);
+    ch = Convert.ToChar(number);
+    Console.WriteLine(ch);
+    Console.WriteLine(number);
+    if (ch != 'q')
     {
-    
-        int count = 0;
-
-        for (int i = 0; i < n.Length; ++i)
+        summa = sum(number);
+        if (summa % 2 != 0)
         {
-        if (n[i] %)
+            Console.WriteLine($"сумма чисел нечётная:\n{summa}");
         }
+        else if (summa % 2 == 0)
+        {
+            Console.WriteLine($"сумма чисел чётная:\n{summa}");
+            break;
+        }
+
     }
 
-}
-
-
-
-
-
-int Count(int n)
-{
-    int count;
-    int reminder;
-    for (int i = 0; i < n.length; i++)
+    int sum(int number)
     {
-        ++count;
-    }
-    if (count == 1)
-    {
+        int sumi = 0;
+        int value = number;
+        int remain;
+        int degree = 1;
+        int firstNum = 0;
+        while (number > 1)
+        {
+            remain = number % 10;
+            sumi = sumi + remain;
+            degree *= 10;
+            number = number / 10;
+            
+        }
+        firstNum = value / degree;
+        sumi += firstNum;
+        number = number / 1;
         
-        reminder = n[i] % 2;
+        return sumi;
     }
-
 }
+
