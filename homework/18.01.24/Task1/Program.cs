@@ -2,17 +2,34 @@
 
 //Тело класса будет написано студентом. Класс обязан иметь статический метод PrintResult()
 class UserInputToCompileForTest
-{ 
-// Напишите программу, которая на вход принимает позиции элемента в двумерном массиве, и возвращает значение этого элемента или же указание, что такого элемента нет.
+{
+    // Напишите программу, которая на вход принимает позиции элемента в двумерном массиве, и возвращает значение этого элемента или же указание, что такого элемента нет.
 
-// Поиск элемента по позициям
+    // Поиск элемента по позициям
     public static int FindElementByPosition(int[,] array, int x, int y)
     {
         //Напишите свое решение здесь
-       
+        
+        int[,] numbers = array;
+        int value =0 ;
+        for (int i = 0; i < numbers.Length; i++)
+        {
+            for (int j = 0; j < numbers.Length; j++)
+            {
+                if (i == x-1 && j == y - 1)
+                {
+                    value = numbers[i,j];
+                    
+                }
+
+            }
+
+        }
+        return value;
+
     }
 
-// Проверка позиций на вхождение в массив
+    // Проверка позиций на вхождение в массив
     public static bool ValidatePosition(int[,] array, int x, int y)
     {
         //Напишите свое решение здесь
@@ -20,21 +37,33 @@ class UserInputToCompileForTest
         {
             for (int j = 0; j < array.Length; j++)
             {
-                if(i == x && j == y)
+                if (i == x-1 && j == y-1)
                 {
-                  FindElementByPosition(array,x,y);
+                    FindElementByPosition(array,x,y);
                 }
-                
+
             }
-            
+
         }
-        
+
         return false;
     }
 
     public static void PrintResult(int[,] numbers, int x, int y)
     {
         //Напишите свое решение здесь
+        for (int i = 0; i < numbers.Length; i++)
+        {
+            for (int j = 0; j < numbers.Length; j++)
+            {
+                if (i == x-1 && j == y - 1)
+                {
+                    Console.Write(numbers[i, j]);
+                }
+
+            }
+
+        }
     }
 }
 
@@ -42,7 +71,7 @@ class UserInputToCompileForTest
 class Answer
 {
     public static void Main(string[] args)
-    {   
+    {
         int[,] array;
 
         int x, y;
@@ -88,7 +117,7 @@ class Answer
         }
         else
         {
-           
+
             // Если аргументов на входе нет, используем примерный массив
             array = new int[,]
             {
@@ -98,9 +127,9 @@ class Answer
             };
             x = 2;
             y = 2;
-            
+
             UserInputToCompileForTest.PrintResult(array, x, y);
 
-        }                
+        }
     }
 }
